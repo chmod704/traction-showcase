@@ -1,0 +1,17 @@
+{
+  "name": "traction-showcase",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A curated, runnable slice of Traction Agents v2 — five frontier-grade artifacts, each with the green test that proves it.",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "fast-check": "^3.23.2",
+    "typescript": "^5.6.0",
+    "vitest": "^3.0.0"
+  }
+}
