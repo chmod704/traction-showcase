@@ -1,5 +1,7 @@
 # Traction Agents — Showcase
 
+[![CI](https://github.com/chmod704/traction-showcase/actions/workflows/ci.yml/badge.svg)](https://github.com/chmod704/traction-showcase/actions/workflows/ci.yml)
+
 A **curated, runnable slice** of Traction Agents v2: a self-managing AI marketing agency for roofing contractors. This repo ships five frontier-grade artifacts from the larger (private) system — each chosen because it's self-contained, and each paired with the **green test that proves it**.
 
 ```bash
