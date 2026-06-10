@@ -34,6 +34,9 @@ Everything here is proven **as code that executes correctly against its contract
 
 This is a slice, not the system. The agent fleet, the lead→cash pipeline, the Cortex memory backbone, the campaign executor, the JARVIS computer-use runtime, and the business/strategy layer live in the private repo. One registry-integration test was trimmed from the action-policy suite because it imports the full tool registry; the gate logic it guards is fully present and proven.
 
+In techincal terms - Traction is a multi-agent harness wrapping a frozen foundation model — with persistent memory (RAG over a vector store), tool-use hands, an agentic orchestration loop, a verification/observability spine, and an emerging self-governance layer (calibration, drift detection,
+    credit assignment) — being grown one calibrated, shadow-tested organ at a time toward reliable long-horizon autonomy in a single vertical.
+
 ## License
 
 All rights reserved. This code is published for review and demonstration only — not licensed for reuse, modification, or redistribution.
